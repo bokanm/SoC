@@ -1,4 +1,7 @@
 v2.pdf
+.gitignore
+.v2.3.cpp.swo
+.v2.3.cpp.swp
 vuk_modul1/
 vuk_modul2/
 v2.4/
